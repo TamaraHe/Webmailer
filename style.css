@@ -45,28 +45,47 @@ h3 {
 	height: 943px;
 	background-color: #F3F2EF;
 	float: left;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
 }
 
-.box3 {
+.box2Gross {
+	width: 200px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.gruppeUnternander {
+	float: left;
 	width: 390px;
+}
+.box3 {
 	height: 270px;
 	background-color: #E64D43;
-	float: left;
 }
 
 .box4 {
 	width: 780px;
 	height: 943px;
 	background-color: #F2F2F2;
-	margin:-918px 0px 0px 460px;
+	float: left;
+		-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
 }
 
 .box5 {
-	width: 390px;
-	height: 648px;
+	height: 618px;
 	background-color: grey;
-	//float: left;
-	margin: 270px 0px 0px 70px;
+}
+
+.box4kleiner {
+	width: 650px;
+		-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
 }
 
 .clear {
