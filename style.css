@@ -10,10 +10,16 @@ html, body, h1, h2, h3 {
 
 /* TYPO*/
 
+@font-face {        |
+    font-family: OpenSans; 
+    src: url(OpenSans-Regular.ttf); 
+}
+
 body {
 	color: #000000;
-	font-family: 'Helvetica Neue' Helvetica, Arial, sans-serif;
+	font-family: 'OpenSans', 'OpenSans-Regular' 
 }
+
 
 h2 {
 	text-align: center;
@@ -52,7 +58,15 @@ h3 {
 	width: 780px;
 	height: 943px;
 	background-color: #F2F2F2;
-	float: left;
+	margin:-918px 0px 0px 460px;
+}
+
+.box5 {
+	width: 390px;
+	height: 648px;
+	background-color: grey;
+	//float: left;
+	margin: 270px 0px 0px 70px;
 }
 
 .clear {
