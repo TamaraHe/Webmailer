@@ -44,6 +44,7 @@ h3 {
 	width: 54px;
 	height: 718px;
 	background-color: #313136;
+	overflow: hidden;
 	float: left;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
@@ -59,7 +60,7 @@ h3 {
 
 .gruppeUnternander {
 	float: left;
-	width: 390px;
+	width: 297px;
 }
 .box3 {
 	width: 297px;
@@ -68,7 +69,7 @@ h3 {
 }
 
 .box4 {
-	width: 929px;
+	width: 800px;
 	height: 718px;
 	background-color: #ffffff;
 	float: left;
@@ -78,7 +79,7 @@ h3 {
 }
 
 .box5 {
-	width: 296px;
+	width: 297px;
 	height: 513px;
 	background-color: f5f4f4;
 }
@@ -96,6 +97,11 @@ h3 {
 
 .absOben {
 	margin-top: 30px;
+}
+
+.bild {
+	width:198px;
+	background-color: red;
 }
 
 
