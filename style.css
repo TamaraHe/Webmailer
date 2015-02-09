@@ -26,7 +26,7 @@ h2 {
 	font-size: 11px;
 	font-weight: bold;
 	margin-left: 31px;
-	padding-top: 7px;
+	padding-top: 5px;
 }
 
 h3 {
@@ -103,6 +103,12 @@ h3 {
 
 .bild {
 	width:198px;
+}
+
+.linie {
+	background-color: #e6e6e6;
+	width: 297px;
+	height: 1px;
 }
 
 
