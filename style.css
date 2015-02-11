@@ -111,4 +111,13 @@ h3 {
 	height: 1px;
 }
 
+.linie2 {
+	background-color: #e6e6e6;
+	width: 800px;
+	height: 1px;
+}
 
+.uhrzeit {
+	float:right;
+	margin-right: 8px;
+}
