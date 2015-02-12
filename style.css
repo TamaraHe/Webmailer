@@ -115,9 +115,20 @@ h3 {
 	background-color: #e6e6e6;
 	width: 760px;
 	height: 1px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.linie2kleiner {
+	width: 610px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
 }
 
 .uhrzeit {
 	float:right;
 	margin-right: 8px;
+	font-weight: lighter
 }
